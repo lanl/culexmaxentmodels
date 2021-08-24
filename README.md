@@ -20,7 +20,7 @@ Morgan E. Gorris<sup>1</sup>, Andrew W. Bartlow<sup>2</sup>, Seth D. Temple<sup>
 Morgan Gorris, mgorris@lanl.gov
 
 # Description: 
-This repository contains seven netCDF files with habitat suitability values from 0-1 for *Culex* mosquito species across the Americas: *C. erraticus**, *C. nigripalpus**, *C. pipiens*, *C. quinquefasciatus**, *C. restuans*, *C. salinarius*, and *C. tarsalis*.
+This repository contains seven netCDF files with habitat suitability values from 0-1 for *Culex* mosquito species across the Americas: *C. erraticus**, *C. nigripalpus**, *C. pipiens*, *C. quinquefasciatus**, *C. restuans*, *C. salinarius*, and *C. tarsalis*. These maps are the mean habitat suitability averaged across 10 bootstrapped Maxent models.
 
 *Habitat suitability values for these species are available for both North and South America. The remainder are available for only North America. 
 
