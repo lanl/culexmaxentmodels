@@ -3,7 +3,7 @@
 netCDF files of *Culex* mosquito habitat suitability values
 
 ## Title:
-Species distribution maps across the Americas of *Culex* mosquitoes, disease vectors for human pathogens
+Updated distribution maps of predominant Culex mosquitoes across the Americas
 
 ## Authors: 
 Morgan E. Gorris<sup>1</sup>, Andrew W. Bartlow<sup>2</sup>, Seth D. Temple<sup>3,4</sup>, Daniel Romero-Alvarez<sup>1,5,6</sup>, Deborah P. Shutt<sup>1</sup>, Jeanne M. Fair<sup>2</sup>, Kimberly A. Kaufeld<sup>3</sup>, Sara Y. Del Valle<sup>1</sup>, Carrie A. Manore<sup>1</sup>
@@ -26,7 +26,8 @@ This repository contains seven netCDF files with habitat suitability values from
 
 Each netCDF file is less than or up to 1.2 MB in size. 
 
-This paper is currently under review, and a link and citation will be provided once it is published.
+The paper associated with this dataset is: 
+Gorris, M.E., Bartlow, A.W., Temple, S.D. et al. Updated distribution maps of predominant Culex mosquitoes across the Americas. Parasites Vectors 14, 547 (2021). [https://doi.org/10.1186/s13071-021-05051-3]
 
 ## netCDF files:
 Each netCDF files contains the following three variables:<br />
